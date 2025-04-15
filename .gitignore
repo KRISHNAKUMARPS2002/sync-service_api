@@ -1,0 +1,29 @@
+# Node modules (dependencies)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Runtime files
+*.pid
+*.seed
+
+# Coverage reports
+coverage/
+
+# Optional: Ignore build artifacts (if you add build process later)
+dist/
+build/
